@@ -1,0 +1,24 @@
+
+pip install pygame
+
+pip install --upgrade pip
+
+cd .. : quay ve o dia goc
+cd SelfTravail_LANGAGE\PYTHON\dungLai\game
+
+cai dat de chuyen duoi exe:
+
+	pip install pyinstaller
+- pyinstaller <<ten file muon chuyen.py>>
+pyinstaller code_flappy_4.py --noconsole --onefile
+
+Use exit() or Ctrl-Z plus Return to exit
+
+------------- game snake --------------
+chuyển đổi sang exe
+pyinstaller snake_final.py --noconsole --onefile --icon=game.ico
+
+------------------------- 
+
+C:\Users\Admin\Documents\Camtasia
+
